@@ -4,18 +4,20 @@
     "url": "https://www.bekasikota.go.id/",
     "icon": "https://favicons.githubusercontent.com/www.bekasikota.go.id",
     "slug": "web-bekasikota",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.76%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.76%",
     "time": 2198,
     "timeDay": 2200,
     "timeWeek": 2198,
     "timeMonth": 2198,
     "timeYear": 2198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-26": 24
+    }
   },
   {
     "name": "Sekretariat Daerah",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 32,
+      "2021-02-26": 142,
       "2021-02-25": 1440,
       "2021-02-24": 298
     }
@@ -44,18 +46,20 @@
     "url": "https://inspektorat.bekasikota.go.id",
     "icon": "https://favicons.githubusercontent.com/inspektorat.bekasikota.go.id",
     "slug": "inspektorat",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.80%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "98.80%",
     "time": 3513,
     "timeDay": 3508,
     "timeWeek": 3513,
     "timeMonth": 3513,
     "timeYear": 3513,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-26": 22
+    }
   },
   {
     "name": "Sekretariat DPRD",
@@ -74,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 142,
       "2021-02-25": 1440,
       "2021-02-24": 298
     }
@@ -96,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 142,
       "2021-02-25": 1440,
       "2021-02-24": 298
     }
@@ -118,7 +122,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 142,
       "2021-02-25": 1440,
       "2021-02-24": 298
     }
@@ -128,18 +132,20 @@
     "url": "https://bpkad.bekasikota.go.id",
     "icon": "https://favicons.githubusercontent.com/bpkad.bekasikota.go.id",
     "slug": "badan-pengelolaan-keuangan-dan-aset-daerah",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
     "time": 2181,
     "timeDay": 2273,
     "timeWeek": 2181,
     "timeMonth": 2181,
     "timeYear": 2181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-26": 20
+    }
   },
   {
     "name": "Badan Pendapatan Daerah",
@@ -158,7 +164,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 142,
       "2021-02-25": 1440,
       "2021-02-24": 298
     }
@@ -180,7 +186,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 298
     }
@@ -202,7 +208,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 298
     }
@@ -224,7 +230,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 298
     }
@@ -234,7 +240,7 @@
     "url": "https://dpmptsp.bekasikota.go.id",
     "icon": "https://favicons.githubusercontent.com/dpmptsp.bekasikota.go.id",
     "slug": "dinas-penanaman-modal-dan-pelayanan-terpadu-satu-pintu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -264,7 +270,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 298
     }
@@ -286,7 +292,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 297
     }
@@ -308,7 +314,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 297
     }
@@ -330,7 +336,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 297
     }
@@ -352,7 +358,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 297
     }
@@ -380,18 +386,20 @@
     "url": "https://dispora.bekasikota.go.id",
     "icon": "https://favicons.githubusercontent.com/dispora.bekasikota.go.id",
     "slug": "dinas-pemuda-dan-olahraga",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.22%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.22%",
     "time": 1823,
     "timeDay": 1773,
     "timeWeek": 1823,
     "timeMonth": 1823,
     "timeYear": 1823,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-26": 15
+    }
   },
   {
     "name": "Dinas Tata Ruang",
@@ -410,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 297
     }
@@ -432,7 +440,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 297
     }
@@ -454,7 +462,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 297
     }
@@ -476,7 +484,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 297
     }
@@ -498,7 +506,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 297
     }
@@ -520,7 +528,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 297
     }
@@ -542,7 +550,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 297
     }
@@ -552,18 +560,20 @@
     "url": "https://disparbud.bekasikota.go.id",
     "icon": "https://favicons.githubusercontent.com/disparbud.bekasikota.go.id",
     "slug": "dinas-pariwisata-dan-kebudayaan",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
     "time": 1864,
     "timeDay": 1855,
     "timeWeek": 1864,
     "timeMonth": 1864,
     "timeYear": 1864,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-26": 11
+    }
   },
   {
     "name": "Dinas Sosial",
@@ -582,7 +592,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 297
     }
@@ -604,7 +614,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 297
     }
@@ -626,7 +636,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 297
     }
@@ -648,7 +658,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 296
     }
@@ -670,7 +680,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 296
     }
@@ -692,7 +702,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 296
     }
@@ -714,7 +724,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 296
     }
@@ -736,7 +746,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 296
     }
@@ -758,7 +768,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 296
     }
@@ -780,7 +790,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 296
     }
@@ -802,7 +812,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 296
     }
@@ -824,7 +834,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 296
     }
@@ -846,7 +856,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 296
     }
@@ -868,7 +878,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 295
     }
@@ -890,7 +900,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 295
     }
@@ -912,7 +922,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 295
     }
@@ -934,7 +944,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 295
     }
@@ -956,7 +966,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 295
     }
@@ -978,7 +988,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 295
     }
@@ -1000,7 +1010,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 295
     }
@@ -1022,7 +1032,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 33,
+      "2021-02-26": 143,
       "2021-02-25": 1440,
       "2021-02-24": 295
     }
