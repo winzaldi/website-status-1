@@ -1,7 +1,7 @@
 url: https://inspektorat.bekasikota.go.id
-status: up
-code: 200
-responseTime: 3582
-lastUpdated: 2021-05-02T12:43:09.742Z
+status: down
+code: 500
+responseTime: 4068
+lastUpdated: 2021-05-02T14:24:45.974Z
 startTime: Wed Feb 24 2021 19:01:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
