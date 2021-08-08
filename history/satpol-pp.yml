@@ -1,7 +1,7 @@
 url: https://satpolpp.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1561
-lastUpdated: 2021-08-08T23:22:36.360Z
+status: down
+code: 503
+responseTime: 1181
+lastUpdated: 2021-08-08T23:33:54.184Z
 startTime: Wed Feb 24 2021 19:03:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
