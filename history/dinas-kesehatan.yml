@@ -1,7 +1,7 @@
 url: https://dinkes.bekasikota.go.id
-status: up
-code: 200
-responseTime: 2065
-lastUpdated: 2021-11-02T23:13:11.163Z
+status: down
+code: 503
+responseTime: 1233
+lastUpdated: 2021-11-03T09:53:20.811Z
 startTime: Wed Feb 24 2021 19:02:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
